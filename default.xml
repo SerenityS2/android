@@ -15,9 +15,6 @@
            
   <remote  name="tm"
             fetch="git://github.com/TheMuppets/" />
-            
-   <remote  name="dk"
-            fetch="git://github.com/DokDo-Project/" />
 
   <default revision="refs/heads/cm-10.1"
            remote="github"
@@ -384,13 +381,13 @@
   
   
   <!-- Dokdo-Project Device Tree -->
-  <project path="device/samsung/e210k" name="android_device_samsung_e210k" remote="dokdo" revision="cm-10.1" />
-  <project path="device/samsung/e210k-common" name="android_device_samsung_e210k-common" remote="dokdo" revision="cm-10.1" />
-  <project path="vendor/samsung/e210k" name="android_vendor_samsung_e210k" remote="dokdo" revision="cm-10.1" />
-  <project path="vendor/samsung/e210k-common" name="android_vendor_samsung_e210k-common" remote="dokdo" revision="cm-10.1" />
-  <project path="device/samsung/e210s" name="android_device_samsung_e210s" remote="dokdo" revision="cm-10.1" />
-  <project path="device/samsung/e210s-common" name="android_device_samsung_e210s-common" remote="dokdo" revision="cm-10.1" />
-  <project path="vendor/samsung/e210s" name="android_vendor_samsung_e210s" remote="dokdo" revision="cm-10.1" />
-  <project path="vendor/samsung/e210s-common" name="android_vendor_samsung_e210s-common" remote="dokdo" revision="cm-10.1" />
-  <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="dokdo" revision="cm-10.1" />
+  <project path="device/samsung/e210k" name="DokDo-Project/android_device_samsung_e210k" revision="cm-10.1" />
+  <project path="device/samsung/e210k-common" name="DokDo-Project/android_device_samsung_e210k-common" revision="cm-10.1" />
+  <project path="vendor/samsung/e210k" name="DokDo-Project/android_vendor_samsung_e210k" revision="cm-10.1" />
+  <project path="vendor/samsung/e210k-common" name="DokDo-Project/android_vendor_samsung_e210k-common" revision="cm-10.1" />
+  <project path="device/samsung/e210s" name="DokDo-Project/android_device_samsung_e210s" revision="cm-10.1" />
+  <project path="device/samsung/e210s-common" name="DokDo-Project/android_device_samsung_e210s-common" revision="cm-10.1" />
+  <project path="vendor/samsung/e210s" name="DokDo-Project/android_vendor_samsung_e210s" revision="cm-10.1" />
+  <project path="vendor/samsung/e210s-common" name="DokDo-Project/android_vendor_samsung_e210s-common" revision="cm-10.1" />
+  <project path="kernel/samsung/smdk4412" name="DokDo-Project/android_kernel_samsung_smdk4412" revision="cm-10.1" />
 </manifest>
