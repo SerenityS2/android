@@ -382,17 +382,4 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
-  
-  
-  
-  <!-- Dokdo-Project Device Tree -->
-  <project path="device/samsung/e210k" name="DokDo-Project/android_device_samsung_e210k" revision="cm-10.1" />
-  <project path="device/samsung/e210k-common" name="DokDo-Project/android_device_samsung_e210k-common" revision="cm-10.1" />
-  <project path="vendor/samsung/e210k" name="DokDo-Project/android_vendor_samsung_e210k" revision="cm-10.1" />
-  <project path="vendor/samsung/e210k-common" name="DokDo-Project/android_vendor_samsung_e210k-common" revision="cm-10.1" />
-  <project path="device/samsung/e210s" name="DokDo-Project/android_device_samsung_e210s" revision="cm-10.1" />
-  <project path="device/samsung/e210s-common" name="DokDo-Project/android_device_samsung_e210s-common" revision="cm-10.1" />
-  <project path="vendor/samsung/e210s" name="DokDo-Project/android_vendor_samsung_e210s" revision="cm-10.1" />
-  <project path="vendor/samsung/e210s-common" name="DokDo-Project/android_vendor_samsung_e210s-common" revision="cm-10.1" />
-  <project path="kernel/samsung/smdk4412" name="DokDo-Project/android_kernel_samsung_smdk4412" revision="cm-10.1" />
 </manifest>
