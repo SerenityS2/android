@@ -16,4 +16,4 @@ Then to sync up:
     repo sync
 
 ============
-Thanks to Dokdo-Project Team(Prizm)
+Thanks to Dokdo-Project Team
